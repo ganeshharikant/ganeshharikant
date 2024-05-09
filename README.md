@@ -1,26 +1,19 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="400" width="400" src=Default_coding_image_2.jpg  />
 </div>
-
 </br>
 <div align="center">
 <a href="https://linkedin.com/in/ganesh37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh37" height="30" width="40" /></a>
 <a href="https://instagram.com/ganesh_h_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_h_1" height="30" width="40" /></a>
 </div>
-
 </br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ganeshharikant&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshharikant" /> 
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Ganesh Harikant</h1>
 
 <h3 align="center">Passionate Web Developer & Programmer | Proficient in HTML, CSS, JavaScript, Node.js, Express.js, Java,Iot | Seeking Exciting Projects!</h3>
-
-
-
-
 
 <h3 align="left">👩‍💻About Me</h3>
 
