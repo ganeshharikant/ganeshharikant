@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="400" width="400" src=Default_coding_image_2.jpg  />
-</div>
+</div> -->
 </br>
 <div align="center">
 <a href="https://linkedin.com/in/ganesh37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh37" height="30" width="40" /></a>
