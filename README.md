@@ -7,9 +7,9 @@
 <a href="https://instagram.com/ganesh_h_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganesh_h_1" height="30" width="40" /></a>
 </div>
 </br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ganeshharikant&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshharikant" /> 
-</div>
+</div> -->
 
 <h1 align="center">Hi 👋, I'm Ganesh Harikant</h1>
 
