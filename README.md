@@ -1,82 +1,31 @@
-<div align="center">
-    <img height="400" width="400" src="Default_coding_image_2.jpg" alt="Coding Image"/>
-</div>
+<h1 align="center">Hi 👋, I'm Ganesh Shankar Harikant</h1>
+<h3 align="center">Passionate Web Developer & Programmer | Proficient in HTML, CSS, JavaScript, Node.js, Express.js, Java,Iot | Seeking Exciting Projects!</h3>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshharikant&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshharikant" /> </p>
 
-<div align="center">
-    <a href="linkedin-profile-url" target="blank" rel="noreferrer">
-        <img src="linked-in-icon-url" 
-             alt="LinkedIn" 
-             height="30" 
-             width="40" 
-             align="center"/>
-    </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshharikant" alt="ganeshharikant" /></a> </p>
 
-    <a href="instagram-profile-url" target="blank" rel="noreferrer">
-        <img src="instagram-icon-url" 
-             alt="Instagram" 
-             height="30" 
-             width="40" 
-             align="center"/>
-    </a>
-</div>
+<p align="left"> <a href="https://twitter.com/ganeshh23349368" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshh23349368?logo=twitter&style=for-the-badge" alt="ganeshh23349368" /></a> </p>
 
-<br/>
+- 🌱 I’m currently learning **GO**
 
-<div align="center">
-    <img src="profile-views-badge-url" alt="Profile Views"/>
-</div>
+- 👨‍💻 All of my projects are available at [https://ganesh-harikant-portfolio.vercel.app/](https://ganesh-harikant-portfolio.vercel.app/)
 
-<h1 align="center">Hi 👋, I'm Ganesh Harikant</h1>
+- 💬 Ask me about **IOT MERN JAVA**
 
-<h3 align="center">
-    Passionate Web Developer & Programmer |  
-    Proficient in HTML, CSS, JavaScript, Node.js, Express.js, Java, IoT |  
-    Seeking Exciting Projects!
-</h3>
+- 📫 How to reach me **ganeshh9876@gmail.com**
 
-<hr/>
-
-<h3 align="center">👩‍💻 About Me</h3>
-
-<p align="center">
-    🌱 I’m currently learning <b>React</b> <br/>
-    💬 Ask me about <b>MERN, Java, IoT</b> <br/>
-    📫 Reach me at: <b>ganeshh9876@gmail.com</b>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ganeshh23349368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshh23349368" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ganesh37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh37" height="30" width="40" /></a>
 </p>
 
-<hr/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<h3 align="center">🛠 Languages & Tools</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshharikant&show_icons=true&locale=en&layout=compact" alt="ganeshharikant" /></p>
 
-<div align="center">
-    <p>
-        <img src="arduino-logo-url" alt="Arduino" width="40" height="40"/>
-        <img src="bootstrap-logo-url" alt="Bootstrap" width="40" height="40"/>
-        <img src="c-logo-url" alt="C" width="40" height="40"/>
-        <img src="css3-logo-url" alt="CSS3" width="40" height="40"/>
-        <img src="express-logo-url" alt="Express" width="40" height="40"/>
-        <img src="figma-logo-url" alt="Figma" width="40" height="40"/>
-        <img src="html5-logo-url" alt="HTML5" width="40" height="40"/>
-        <img src="java-logo-url" alt="Java" width="40" height="40"/>
-        <img src="javascript-logo-url" alt="JavaScript" width="40" height="40"/>
-        <img src="mongodb-logo-url" alt="MongoDB" width="40" height="40"/>
-        <img src="mysql-logo-url" alt="MySQL" width="40" height="40"/>
-        <img src="nodejs-logo-url" alt="Node.js" width="40" height="40"/>
-        <img src="photoshop-logo-url" alt="Photoshop" width="40" height="40"/>
-        <img src="php-logo-url" alt="PHP" width="40" height="40"/>
-        <img src="postgresql-logo-url" alt="PostgreSQL" width="40" height="40"/>
-        <img src="react-logo-url" alt="React" width="40" height="40"/>
-    </p>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshharikant&show_icons=true&locale=en" alt="ganeshharikant" /></p>
 
-<hr/>
-
-<h3 align="center">🔥 My Stats</h3>
-
-<div align="center">
-    <p><img src="top-langs-stats-url" alt="Top Languages"/></p>
-    <p><img src="github-stats-url" alt="GitHub Stats"/></p>
-    <p><img src="github-streak-url" alt="GitHub Streak"/></p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshharikant&" alt="ganeshharikant" /></p>
