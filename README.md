@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Ganesh Shankar Harikant</h1>
-<h3 align="center">Passionate Web Developer & Programmer | Proficient in HTML, CSS, JavaScript, Node.js, Express.js, Java,Iot | Seeking Exciting Projects!</h3>
+<!-- <h3 align="center">Passionate Web Developer & Programmer | Proficient in HTML, CSS, JavaScript, Node.js, Express.js, Java,Iot | Seeking Exciting Projects!</h3> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=👨‍💻+Full+Stack+Developer;🟢+Node.js+%26+Express.js;🗄️+MongoDB+%26+MySQL;🌐+JavaScript+%26+Java;📡+IoT+%7C+ESP32+%7C+MQTT;🚀+Always+Learning+and+Building" alt="Typing SVG" />
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshharikant&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshharikant" /> </p>
 
