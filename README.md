@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ganesh Shankar Harikant</h1>
-<h3 align="center">Passionate Web Developer & Programmer | Proficient in HTML, CSS, JavaScript, Node.js, Express.js, Java,Iot | Seeking Exciting Projects!</h3>
+<div align="center">
+  <!-- Sliding marquee SVG -->
+  <svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+    <rect width="100%" height="100%" fill="transparent"></rect>
+    <text id="slide" x="1200" y="38" font-family="Segoe UI, Roboto, Arial" font-size="28" fill="#0e75b6">
+      Hi — I'm Ganesh Harikant &nbsp; • &nbsp; Passionate Web Developer & IoT enthusiast
+    </text>
+    <animate
+      xlink:href="#slide"
+      attributeName="x"
+      from="1200" to="-1400"
+      dur="14s"
+      repeatCount="indefinite" />
+  </svg>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshharikant&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshharikant" /> </p>
 
