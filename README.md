@@ -1,16 +1,24 @@
 <div align="center">
-  <!-- Sliding marquee SVG -->
-  <svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-    <rect width="100%" height="100%" fill="transparent"></rect>
-    <text id="slide" x="1200" y="38" font-family="Segoe UI, Roboto, Arial" font-size="28" fill="#0e75b6">
-      Hi — I'm Ganesh Harikant &nbsp; • &nbsp; Passionate Web Developer & IoT enthusiast
+  <!-- Typing reveal SVG -->
+  <svg width="100%" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+    <defs>
+      <mask id="m">
+        <rect x="0" y="0" width="0" height="70" fill="white">
+          <!-- animate the rect width to reveal text -->
+          <animate attributeName="width" from="0" to="900" dur="4.5s" begin="0s" fill="freeze" />
+        </rect>
+      </mask>
+    </defs>
+
+    <text x="10" y="45" font-family="Segoe UI, Roboto, Arial" font-size="32" fill="#0e75b6" mask="url(#m)">
+      Hi, I'm Ganesh Harikant — Full-Stack Developer & IoT tinkerer
     </text>
-    <animate
-      xlink:href="#slide"
-      attributeName="x"
-      from="1200" to="-1400"
-      dur="14s"
-      repeatCount="indefinite" />
+
+    <!-- blinking caret -->
+    <rect x="14" y="16" width="6" height="28" fill="#0e75b6">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+      <animate attributeName="x" values="14;860" dur="4.5s" begin="0s" fill="freeze" />
+    </rect>
   </svg>
 </div>
 
